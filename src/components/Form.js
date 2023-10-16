@@ -77,7 +77,7 @@ const Form = () => {
 
   return (
     <div className="form-container">
-      <h1>Form</h1>
+      <h1>Product</h1>
       <form>
         <div className="form-field">
           <label>Name:</label>
